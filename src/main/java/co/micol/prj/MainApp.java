@@ -21,17 +21,17 @@ public class MainApp {
 //		man2.run();
 //		man2.sleep();
 ////		
-		Friend schoolFriend = new SchoolFriend(); 
-		schoolFriend.name = "홍길동";
-		schoolFriend.tel="010-1111-1111";
-		schoolFriend.address = "대구광역시 중구";
-		schoolFriend.friendPrint();
-		
-		Friend companyFriend = new CompanyFriend(); 
-		companyFriend.name = "홍길순";
-		companyFriend.tel="010-2222-2222";
-		companyFriend.address = "서울특별시 종로구";
-		companyFriend.friendPrint();
+//		Friend schoolFriend = new SchoolFriend(); 
+//		schoolFriend.name = "홍길동";
+//		schoolFriend.tel="010-1111-1111";
+//		schoolFriend.address = "대구광역시 중구";
+//		schoolFriend.friendPrint();
+//		
+//		Friend companyFriend = new CompanyFriend(); 
+//		companyFriend.name = "홍길순";
+//		companyFriend.tel="010-2222-2222";
+//		companyFriend.address = "서울특별시 종로구";
+//		companyFriend.friendPrint();
 		
 		
 	}
